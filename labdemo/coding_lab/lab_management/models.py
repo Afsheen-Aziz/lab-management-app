@@ -28,7 +28,9 @@ class Assignment(models.Model):
 
     def __str__(self):
         return f"{self.question} - {self.lab.name}"
+    
 
+# submission table 
 class Submission(models.Model):
     assignment = models.ForeignKey(Assignment, on_delete=models.CASCADE, related_name='submissions')
     student = models.ForeignKey(User, on_delete=models.CASCADE, related_name='submissions')
