@@ -38,4 +38,6 @@ Screenshots
 - AI Code Review
 - 
 Diagrams
+
+https://raw.githubusercontent.com/Afsheen-Aziz/lab-management-app/02d5c51af0761025245d3d213126d790187cee30/map.jpg
 - System Workflow
