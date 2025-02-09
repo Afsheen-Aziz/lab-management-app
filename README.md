@@ -1,10 +1,13 @@
 LAB MANAGEMENT SYSTEM
 
-Team Name: Hackory
+**Team Name: Hackory**
 
 Member 1: Afsheen Aziz Onnarakkattayil - cusat
+
 Member 2: Aiswarya k Binu - cusat
+
 Member 3: Catherin Maria Jacob - cusat
+
 
 Hosted Project Link: [Insert Hosted Project Link]
 
@@ -35,4 +38,6 @@ Screenshots
 - AI Code Review
 - 
 Diagrams
+
+https://raw.githubusercontent.com/Afsheen-Aziz/lab-management-app/02d5c51af0761025245d3d213126d790187cee30/map.jpg
 - System Workflow
