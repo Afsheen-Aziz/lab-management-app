@@ -15,7 +15,8 @@ Project Description
 The Coding Lab Management System is a web-based platform designed to streamline coding lab operations by allowing students to receive assignments, write and execute code online, and submit it for AI-assisted review. The superadmin (teacher) manages labs, assigns questions, detects malpractice, and scores submissions.
 
 The Problem Statement
-Managing coding assignments, preventing malpractice, and ensuring students receive structured feedback are challenges in a traditional lab setting.
+
+Managing coding labs in educational institutions is inefficient due to the lack of a centralized system for assigning coding problems, compiling and submitting code, tracking student progress and tracking of student progress by the educators.
 
 The Solution
 A web-based coding lab platform where students can complete and submit assignments while AI reviews code quality and detects malpractice. The teacher oversees all submissions and ensures academic integrity.
