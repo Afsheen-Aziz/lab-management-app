@@ -19,7 +19,7 @@ The Problem Statement
 Managing coding labs in educational institutions is inefficient due to the lack of a centralized system for assigning coding problems, compiling and submitting code, tracking student progress and tracking of student progress by the educators.
 
 The Solution
-A web-based coding lab platform where students can complete and submit assignments while AI reviews code quality and detects malpractice. The teacher oversees all submissions and ensures academic integrity.
+We developed a Coding Lab Management System to streamline lab-based programming education by enabling teachers to create and manage assignments, students to write and submit code with real-time compilation, and providing a centralized platform for both teacher and student convenience.
 
 Technologies/Components Used
 For Software:
