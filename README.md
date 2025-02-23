@@ -8,22 +8,24 @@ Member 3: Catherin Maria Jacob
 
 
 Project Description  
-The Coding Lab Management System is an innovative web platform designed to revolutionize coding education.
-Managing coding labs in educational institutions is inefficient due to the lack of a centralized system for assigning coding problems, compiling and submitting code, tracking student progress and tracking of student progress by the educators.
-We developed a Coding Lab Management System to streamline lab-based programming education by enabling teachers to create and manage assignments, students to write and submit code with real-time compilation, and providing a centralized platform for both teacher and student convenience.
+The Coding Lab Management System is a web-based platform designed to streamline programming education by providing an integrated environment for managing coding labs and assignments. Teachers can create and distribute assignments, while students can write, compile, and submit their code directly through an online code editor powered by the Paiza.IO API. The system supports multiple programming languages, real-time compilation, and submission tracking, enabling teachers to review student submissions, assign scores, and provide feedback efficiently. Built using Django, this project aims to enhance the learning experience for students and simplify the evaluation process for educators in a collaborative and user-friendly manner.  
 
 Technologies/Components Used  
 For Software:  
-  Languages: Python, HTML, CSS
-  Backend: Django 
-  Frontend: HTML, CSS
-  Database: MySQL 
-  Compiler API: Paizo
+Languages :  
+Python, HTML, CSS, JavaScript  
+Backend :  
+Django  
+Frontend :  
+CSS, Bootstrap , JavaScript  
+Database :  
+SQLite  
+Compiler API :  
+Paiza.IO  
 
 
 
-Project Documentation  
-Screenshots  
+Project Documentation   
 Features:  
 - Authentication System  
 - Student Dashboard  
